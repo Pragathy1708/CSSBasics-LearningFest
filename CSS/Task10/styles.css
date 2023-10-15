@@ -1,0 +1,11 @@
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+      margin-right: 100px;
+    }
+.right{
+    text-align: right;
+       margin-left: 100px; 
+    }

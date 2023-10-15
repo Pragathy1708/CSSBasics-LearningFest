@@ -1,0 +1,16 @@
+
+    .FIRST{
+      border: 2px solid red;
+      padding: 10px;
+      border-radius: 25px;
+}
+    .second
+    {
+
+ border: 2px solid red;
+      padding: 10px;
+      border-radius: 25px;
+      border-top-left-radius: 120px;
+      border-bottom-right-radius: 120px;
+    }
+    

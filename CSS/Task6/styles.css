@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: wheat;
+    position: relative;
+  }
+  
+  .blue {
+   margin-top: 60px;
+   margin-left: 60px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+  }
+  

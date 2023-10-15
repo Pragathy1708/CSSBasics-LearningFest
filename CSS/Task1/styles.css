@@ -1,0 +1,12 @@
+section {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    }
+    h1 {
+        color: white;
+    }
+    p {
+        text-align: left;
+        font-style: bold;
+        }
